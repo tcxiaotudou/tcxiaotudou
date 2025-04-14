@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm fciasth小土豆</h1>
 <h3 align="left">A passionate developer from ShenZhen</h3>
 
-- 🔭 I’m currently working on **[Jpush](https://github.com/jpush)**
-
 - 🌱 I’m currently learning **Kubernetes,Python**
 
 - 📫 How to reach me **2290262044@qq.com**
